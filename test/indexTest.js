@@ -31,3 +31,6 @@ describe('index.js', function () {
     });
   });
 });
+describe('index.js', function () {
+  // there's stuff in here, too
+})
