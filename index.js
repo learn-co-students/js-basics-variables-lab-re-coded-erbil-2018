@@ -1,5 +1,6 @@
 // Code your solution in this file!
-let companyName = 'Scuber';
-console.log(companyName)
+const companyName = 'Scuber'
 
-expect(function () { companyName = 'specialCompany' }).to.throw(TypeError);
+let mostProfitableNeighborhood ="Chelsea"
+
+let companyCeo = 'Susan Smith'
