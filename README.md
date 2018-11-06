@@ -6,8 +6,7 @@
 ## Instructions
 Ok, so this is your first lab. You'll notice a few new things in this lesson that we haven't encountered before. Don't worry, we'll walk you through them.
 
-### Tests...
-The first new thing you'll notice is tests. When we want to run an experiment, we need to develop a hypothesis and we need to test it. In programming, we run tests serve as our experiment to verify that programs behave the way we think they do. Tests help us identify bugs, and they give us a sense of the health of our applications.
+### Tests...d to test it. In programming, we run tests serve as our experiment to verify that programs behave the way we think they do. Tests help us identify bugs, and they give us a sense of the health of our a.
 
 Here, we use tests as teaching tools. Just like in a normal coding environment, we use tests to describe the program's behavior. You are in charge of getting the tests to pass.
 
